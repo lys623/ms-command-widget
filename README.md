@@ -4,8 +4,8 @@
 fis.config.set('settings',{
   connect : {
     host:'192.168.97.150',
-    user:'luyisheng',
-    password:'666999'
+    user:'＊＊＊＊＊＊',
+    password:'＊＊＊＊＊＊'
   },
     "baseDir": "", //静态文件名称
     "cssDir": "css", //css文件夹名称
